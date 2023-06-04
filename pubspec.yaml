@@ -1,7 +1,6 @@
-name: dart_example
-description: A sample command-line application.
+name: dart_demo
+description: Demo application
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: '>=2.18.5 <3.0.0'
